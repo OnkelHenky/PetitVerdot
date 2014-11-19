@@ -7,8 +7,8 @@
   "name": "Merlot for Selenium Builder",
   "description": "Enables export of Merlot Blueprint format",
   "description_de": "Ermöglicht den Export für das Merlot Blueprint Format",
-  "siteUrl": "http://saucelabs.github.com/sb-sauce-plugin/",
-  "shutdownFunction": "sauce.shutdown",
+  "siteUrl": "http://....",
+  "shutdownFunction": "...",
   "icon": "merlot.jpg",
   "load": [
     "plugin.js"
