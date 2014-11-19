@@ -1,0 +1,16 @@
+{
+  "headerVersion": 1,
+  "pluginVersion": "0.1",
+  "builderMinVersion": "2.2",
+  "builderMaxVersion": "2.2.*",
+  "identifier": "merlot",
+  "name": "Merlot for Selenium Builder",
+  "description": "Enables export of Merlot Blueprint format",
+  "description_de": "Ermöglicht den Export für das Merlot Blueprint Format",
+  "siteUrl": "http://saucelabs.github.com/sb-sauce-plugin/",
+  "shutdownFunction": "sauce.shutdown",
+  "icon": "merlot.jpg",
+  "load": [
+    "plugin.js"
+  ]
+}
