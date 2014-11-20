@@ -20,7 +20,7 @@
  * | limitations under the License.                                           |
  * |                                                                          |
  * | For more information see:                                                |
- * | https://github.com/OnkelHenky/PinotGris/blob/master/README.md            |
+ * | https://github.com/OnkelHenky/PetitVerdot/blob/master/README.md          |
  * |                                                                          |
  * +--------------------------------------------------------------------------+
  */
