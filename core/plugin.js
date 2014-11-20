@@ -51,3 +51,22 @@
  * | Source: http://en.wikipedia.org/wiki/Petit_Verdot                         |
  * +---------------------------------------------------------------------------+
  */
+
+
+var PetitVerdot = PetitVerdot || {};
+
+/**
+ * @description
+ * This function is getting called when the builder is shutting down.
+ * Therefore, it allows to implement cleanup stuff here.
+ */
+PetitVerdot.shutdown = function(){
+
+};
+
+
+
+builder.registerPostLoadHook(function() {
+    builder.gui.menu.addItem("suite", "PetitVerdot", 'ssdsdsd', function(){});
+});
+

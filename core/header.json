@@ -4,12 +4,12 @@
   "builderMinVersion": "2.2",
   "builderMaxVersion": "2.2.*",
   "identifier": "merlot",
-  "name": "Merlot for Selenium Builder",
+  "name": "PetitVerdot, Merlot-Plugin for Selenium Builder",
   "description": "Enables export of Merlot Blueprint format",
   "description_de": "Ermöglicht den Export für das Merlot Blueprint Format",
   "siteUrl": "http://....",
-  "shutdownFunction": "...",
-  "icon": "merlot.jpg",
+  "shutdownFunction": "PetitVerdot.shutdown",
+  "icon": "petitverdotLogo.png",
   "load": [
     "plugin.js"
   ]
